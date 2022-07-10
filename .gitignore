@@ -3,3 +3,11 @@ bazel-*
 compile_commands.json
 .idea
 cmake-build-*
+
+.DS_Store
+*__gen.go
+*__ignore.go
+*.swo
+~i_*
+ig_*
+zzzig_*
